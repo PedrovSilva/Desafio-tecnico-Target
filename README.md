@@ -1,4 +1,4 @@
-# Desafio-tecnico-Target
+# Resolução
 
 ## Questão 01
 77
