@@ -17,6 +17,9 @@ e)13
 f)20
 ## Questão 03
 **Resposta no diretorio questao_03**
+## Questão 04
+**Resposta no diretorio questao_04**
+
 ## Questão 05
 Para resolver esse problema, precisamos determinar a posição dos veículos no momento em que se cruzam e comparar qual está mais próximo da cidade de Ribeirão Preto.
 
@@ -34,38 +37,37 @@ Para resolver esse problema, precisamos determinar a posição dos veículos no 
 
    Quando os veículos se cruzam, a soma das distâncias percorridas por ambos será igual à distância total entre Ribeirão Preto e Barretos.
 
-   Se \( t \) é o tempo em horas quando eles se cruzam, então:
+   Se  t  é o tempo em horas quando eles se cruzam, então:
    
-   - Distância percorrida pelo carro = \( 90t \) km
-   - Distância percorrida pelo caminhão = \( 80t \) km
+   - Distância percorrida pelo carro = 90t km
+   - Distância percorrida pelo caminhão = 80t km
    
    A soma das distâncias percorridas é igual à distância total:
    
-   \[
+
    90t + 80t = 125
-   \]
+ 
    
-   \[
    170t = 125
-   \]
    
-   \[
-   t = \frac{125}{170} \approx 0,735 \text{ horas} \approx 44 \text{ minutos}
-   \]
+   
+  
+   t = 125/170 = 0,735 horas  = 44 minutos
+   
 
 2. **Cálculo da Distância Percorrida pelo Carro e pelo Caminhão:**
 
    - Distância percorrida pelo carro:
    
-     \[
-     \text{Distância do carro} = 90t = 90 \times 0,735 \approx 66,15 \text{ km}
-     \]
+     
+     Distância do carro = 90t = 90 * 0,735 = 66,15 \km
+    
 
    - Distância percorrida pelo caminhão:
    
-     \[
-     \text{Distância do caminhão} = 80t = 80 \times 0,735 \approx 58,80 \text{ km}
-     \]
+    
+     Distância do caminhão = 80t = 80 * 0,735 = 58,80 km
+     
 
 3. **Considerando o Tempo Adicional de Pedágio para o Carro:**
 
@@ -73,21 +75,16 @@ Para resolver esse problema, precisamos determinar a posição dos veículos no 
 
    Tempo adicional total para pedágios:
 
-   \[
-   \text{Tempo adicional} = 3 \times \frac{5}{60} = 0,25 \text{ horas}
-   \]
+  Tempo adicional = 3 * 5/60 = 0,25horas
+  
 
    Tempo efetivo de viagem do carro:
 
-   \[
-   \text{Tempo efetivo do carro} = 0,735 \text{ horas} + 0,25 \text{ horas} = 0,985 \text{ horas}
-   \]
+   Tempo efetivo do carro = 0,735 horas + 0,25 horas= 0,985 horas
+  
 
    A distância percorrida pelo carro com o tempo efetivo:
-
-   \[
-   \text{Distância real percorrida pelo carro} = 90 \times 0,735 = 66,15 \text{ km}
-   \]
+Distância real percorrida pelo carro = 90 * 0,735 = 66,15km
 
    Esta distância permanece a mesma, pois o tempo adicional não altera a distância percorrida antes do cruzamento, apenas altera o tempo total de viagem.
 
@@ -95,15 +92,15 @@ Para resolver esse problema, precisamos determinar a posição dos veículos no 
 
    - **Distância do carro da cidade de Ribeirão Preto quando se cruzam:**
 
-     A distância do carro a Ribeirão Preto quando eles se cruzam é 66,15 km.
+     A distância do carro a Ribeirão Preto quando eles se cruzam é 66,15km.
 
    - **Distância do caminhão da cidade de Ribeirão Preto quando se cruzam:**
 
      A distância do caminhão a Ribeirão Preto quando eles se cruzam é:
 
-     \[
-     125 - 66,15 = 58,85 \text{ km}
-     \]
+    
+     125 - 66,15 = 58,85km
+    
 
 ### Conclusão:
 
